@@ -1,0 +1,17 @@
+C:\Users\berfi\source\repos\Sanayi Oto Tamir Otomasyonu\Sanayi Oto Tamir Otomasyonu\bin\Debug\Sanayi Oto Tamir Otomasyonu.exe.config
+C:\Users\berfi\source\repos\Sanayi Oto Tamir Otomasyonu\Sanayi Oto Tamir Otomasyonu\bin\Debug\Sanayi Oto Tamir Otomasyonu.exe
+C:\Users\berfi\source\repos\Sanayi Oto Tamir Otomasyonu\Sanayi Oto Tamir Otomasyonu\bin\Debug\Sanayi Oto Tamir Otomasyonu.pdb
+C:\Users\berfi\source\repos\Sanayi Oto Tamir Otomasyonu\Sanayi Oto Tamir Otomasyonu\obj\Debug\Sanayi Oto Tamir Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\berfi\source\repos\Sanayi Oto Tamir Otomasyonu\Sanayi Oto Tamir Otomasyonu\obj\Debug\Sanayi_Oto_Tamir_Otomasyonu.FrmAcilis.resources
+C:\Users\berfi\source\repos\Sanayi Oto Tamir Otomasyonu\Sanayi Oto Tamir Otomasyonu\obj\Debug\Sanayi_Oto_Tamir_Otomasyonu.Properties.Resources.resources
+C:\Users\berfi\source\repos\Sanayi Oto Tamir Otomasyonu\Sanayi Oto Tamir Otomasyonu\obj\Debug\Sanayi Oto Tamir Otomasyonu.csproj.GenerateResource.cache
+C:\Users\berfi\source\repos\Sanayi Oto Tamir Otomasyonu\Sanayi Oto Tamir Otomasyonu\obj\Debug\Sanayi Oto Tamir Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\berfi\source\repos\Sanayi Oto Tamir Otomasyonu\Sanayi Oto Tamir Otomasyonu\obj\Debug\Sanayi Oto Tamir Otomasyonu.exe
+C:\Users\berfi\source\repos\Sanayi Oto Tamir Otomasyonu\Sanayi Oto Tamir Otomasyonu\obj\Debug\Sanayi Oto Tamir Otomasyonu.pdb
+C:\Users\berfi\source\repos\Sanayi Oto Tamir Otomasyonu\Sanayi Oto Tamir Otomasyonu\obj\Debug\Sanayi_Oto_Tamir_Otomasyonu.Anaform.resources
+C:\Users\berfi\source\repos\Sanayi Oto Tamir Otomasyonu\Sanayi Oto Tamir Otomasyonu\obj\Debug\Sanayi_Oto_Tamir_Otomasyonu.arackayitform.resources
+C:\Users\berfi\source\repos\Sanayi Oto Tamir Otomasyonu\Sanayi Oto Tamir Otomasyonu\obj\Debug\SanayiOtoTamir.TamirIslemleri.resources
+C:\Users\berfi\source\repos\Sanayi Oto Tamir Otomasyonu\Sanayi Oto Tamir Otomasyonu\obj\Debug\SanayiOtoTamir.odemeKayit.resources
+C:\Users\berfi\source\repos\Sanayi Oto Tamir Otomasyonu\Sanayi Oto Tamir Otomasyonu\obj\Debug\SanayiOtoTamir.calisanlar.resources
+C:\Users\berfi\source\repos\Sanayi Oto Tamir Otomasyonu\Sanayi Oto Tamir Otomasyonu\obj\Debug\SanayiOtoTamir.Raporlar.resources
+C:\Users\berfi\source\repos\Sanayi Oto Tamir Otomasyonu\Sanayi Oto Tamir Otomasyonu\obj\Debug\SanayiOtoTamir.FaturaOlustur.resources
